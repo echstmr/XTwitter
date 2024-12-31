@@ -1,0 +1,44 @@
+
+{
+    "Xlogin":{
+        "logo": "/img/twitter-icon.png",
+        "alt" : "Twitter-Logo",
+        "Text1": "Happening now",
+        "Text2": "Join today."
+
+    },
+
+    "Img":{
+        "apple": "/img/apple-icon.png",
+        "google": "/img/google-icon.png"
+    },
+
+    "Button":{
+        "button1": "Sign Up with Google",
+        "button2": "Sign up with Apple",
+        "button3": "Create Account",
+        "button4": "Sign In"
+    },
+
+    "FooterLinks": {
+        "link1": "About",
+        "link2": "Download the X app",
+        "link3": "Help Center",
+        "link4": "Terms of Service",
+        "link5": "Privacy Policy",
+        "link6": "Cookie Policy",
+        "link7": "Accessibility",
+        "link8": "Ads info",
+        "link9": "Blog",
+        "link10": "Careers",
+        "link11": "Brand Resources",
+        "link12": "Advertising",
+        "link13": "Marketing",
+        "link14": "X-for-Business",
+        "link15": "Developpers",
+        "link16": "Director",
+        "link17": "Setting",
+        "link18": "© 2024 X Corp."
+
+    }
+}
